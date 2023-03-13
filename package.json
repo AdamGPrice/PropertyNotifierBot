@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^1.35.4",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^13.8.1",
+    "express": "^4.18.1"
+  },
+  "name": "propertynotifier",
+  "version": "1.0.0",
+  "description": "webscrapper/discord bot for instant property notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "webscraping",
+    "discord",
+    "node",
+    "js"
+  ],
+  "author": "Adam Price",
+  "license": "ISC"
+}
